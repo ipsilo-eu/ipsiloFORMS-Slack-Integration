@@ -1,4 +1,4 @@
-# 🤖 ipsiloFORMS Slack Integration
+# ipsiloFORMS Slack Integration
 
 A simple guide on how to set up our Slack integration for instant, urgent notifications.
 
